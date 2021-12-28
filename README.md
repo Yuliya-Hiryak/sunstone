@@ -1,3 +1,3 @@
-# sunstone
+# SunStone
 
 Simple video chat
